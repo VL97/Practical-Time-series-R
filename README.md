@@ -1,1 +1,1 @@
-# Practical-Time-series-R
+Practical Time series analysis from course.
